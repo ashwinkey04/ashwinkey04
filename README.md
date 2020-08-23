@@ -1,8 +1,16 @@
 
-# Vanakkam! <img src="https://media.giphy.com/media/3ohzdWvAMBhrtBEC2Y/giphy.gif" width="30px">
+# வணக்கம்! <img src="https://media.giphy.com/media/3ohzdWvAMBhrtBEC2Y/giphy.gif" width="30px">
 
-You are now stalking Ashwin Ramakrishnan, android developer from Coimbatore, TN , India. I am currently working as a student developer intern at <a href="https://summerofcode.withgoogle.com/"><img src="https://user-images.githubusercontent.com/20596763/90981309-d7a7ea00-e57d-11ea-98a6-4b2e80913a26.png" height=18></a> with [The Mifos Initiative](https://www.github.com/openMF)
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
+You are now stalking Ashwin Ramakrishnan, android developer from Coimbatore, TN , India. I am currently working as a student developer intern at <a href="https://summerofcode.withgoogle.com/"><img src="https://user-images.githubusercontent.com/20596763/90981309-d7a7ea00-e57d-11ea-98a6-4b2e80913a26.png" height=18></a> with [The Mifos Initiative](https://www.github.com/openMF). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
+- I speak Tamil🇮🇳, English🇬🇧, sometimes tech👨‍💻
+- I attend Amrita School of Engineering🎓
+- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
+- Ask me about 
+	- Android development <img src="https://img.icons8.com/fluent/48/000000/android-os.png" width=3%>
+	- Linux🐧
+	- Flutter <img src="https://img.icons8.com/color/48/000000/flutter.png" width=3%>
+	- Problem Solving 🔧
+	- Hackintosh-ing <img src="https://dxf1.com/images/jdownloads/screenshots/apple.png" width=16> with Open Core
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
@@ -27,13 +35,17 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinkey04&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-## &#x1f4c8; Active projects
+## &#x1f4c8; Recent projects
 <a href="https://github.com/MartinHeinz/ashwinkey04">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinkey04&repo=lorax&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/ashwinkey04/mifos-mobile">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinkey04&repo=mifos-mobile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<a href="https://github.com/ashwinkey04/oc-efi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinkey04&repo=oc-efi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
@@ -55,4 +67,3 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
 [1]: https://twitter.com/ashwinkey04
 [2]: https://github.com/ashwinkey04
 [3]: https://www.linkedin.com/in/ashwinkey04/
-
