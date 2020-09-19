@@ -1,10 +1,9 @@
 
 # வணக்கம்! <img src="https://media.giphy.com/media/3ohzdWvAMBhrtBEC2Y/giphy.gif" width="30px">
 
-You are now stalking Ashwin Ramakrishnan, android developer from Coimbatore, TN , India. I am currently working as a student developer intern at <a href="https://summerofcode.withgoogle.com/"><img src="https://user-images.githubusercontent.com/20596763/90981309-d7a7ea00-e57d-11ea-98a6-4b2e80913a26.png" height=18></a> with [The Mifos Initiative](https://www.github.com/openMF). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
-- I speak Tamil🇮🇳, English🇬🇧, sometimes tech👨‍💻
+You are now stalking Ashwin Ramakrishnan, android developer from Coimbatore, TN , India. I just finished working as a student developer intern at <a href="https://summerofcode.withgoogle.com/"><img src="https://user-images.githubusercontent.com/20596763/90981309-d7a7ea00-e57d-11ea-98a6-4b2e80913a26.png" height=18></a> with [The Mifos Initiative](https://www.github.com/openMF) and **open to internship roles now**. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
+- I speak Tamil🇮🇳, English🇬🇧, and tech👨‍💻
 - I attend Amrita School of Engineering🎓
-- You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]
 - Ask me about 
 	- Android development <img src="https://img.icons8.com/fluent/48/000000/android-os.png" width=3%>
 	- Linux🐧
