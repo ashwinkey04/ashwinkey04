@@ -35,6 +35,11 @@ You are now stalking Ashwin Ramakrishnan, android developer from Coimbatore, TN 
 </a>
 
 ## &#x1f4c8; Recent projects
+
+<a href="https://github.com/raag-music/raag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raag-music&repo=raag&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/ashwinkey04/lorax">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinkey04&repo=lorax&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
