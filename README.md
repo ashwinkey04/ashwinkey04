@@ -1,6 +1,6 @@
 # வணக்கம்! (Hello!) <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width = 100> 
 
-You are now stalking Ashwin Ramakrishnan, mobile developer from Coimbatore, TN , India. I work as an Associate Technology Engineer at [Spoon](https://spoon.money). I finished working as a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). You can find me on [Twitter][1] and [LinkedIn][2]
+You are now stalking Ashwin Ramakrishnan, mobile developer from Coimbatore, TN , India. I recently worked as an Associate Technology Engineer at [Spoon](https://spoon.money). I was also a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). You can find me on [Twitter][1] and [LinkedIn][2]
 - I speak Tamil, English, and tech 
 - I attend Amrita School of Engineering
 - Ask me about 
