@@ -1,6 +1,6 @@
-# வணக்கம்! (Hello!)
+![Hi 👋, I'm Ashwin](https://user-images.githubusercontent.com/20596763/141672268-7e6c9485-72e0-4ae4-bb86-1d725d959cc2.png)
 
-You are now stalking Ashwin Ramakrishnan, mobile developer from Coimbatore, TN , India. I recently worked as an Associate Technology Engineer at [Spoon](https://spoon.money). I was also a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). You can find me on [Twitter][1] and [LinkedIn][2]
+I worked as a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). I maintain [Raag](https://github.com/raag-music/raag) - an open source music player for android. I was also an Associate Technology Engineer at [Spoon](https://spoon.money) and did some freelance development projects. You can find me on [Twitter][1] and [LinkedIn][2]
 - I speak Tamil, English, and tech 
 - I attend Amrita School of Engineering
 - Ask me about 
@@ -15,31 +15,12 @@ You are now stalking Ashwin Ramakrishnan, mobile developer from Coimbatore, TN ,
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinkey04&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-### Recent projects
-
-<a href="https://github.com/raag-music/raag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raag-music&repo=raag&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/ashwinkey04/lorax">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinkey04&repo=lorax&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/ashwinkey04/mifos-mobile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinkey04&repo=mifos-mobile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-<a href="https://github.com/ashwinkey04/oc-efi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinkey04&repo=oc-efi&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
 ### Typeracer badge
 <a href="https://data.typeracer.com/pit/profile?user=ashwinkey04&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=ashwinkey04" border="0" /></a>
 
 [1.1]: http://i.imgur.com/tXSoThF.png (@ashwinkey04)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
