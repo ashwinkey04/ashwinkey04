@@ -1,6 +1,6 @@
 ![Hi 👋, I'm Ashwin](https://user-images.githubusercontent.com/20596763/141672268-7e6c9485-72e0-4ae4-bb86-1d725d959cc2.png)
 
-I worked as a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). I maintain [Raag](https://github.com/raag-music/raag) - an open source music player for android. I was also an Associate Technology Engineer at [Spoon](https://spoon.money) and did some freelance development projects. You can find me on [Twitter][1] and [LinkedIn][2]
+I worked as a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). I maintain [Raag](https://github.com/raag-music/raag) - an open source music player for android. I was also a technical product manager at [Spoon](https://spoon.money). You can find me on [LinkedIn][2] and [Twitter][1]
 - I speak Tamil, English, and tech 
 - I attend Amrita School of Engineering
 - Ask me about 
