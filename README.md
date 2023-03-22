@@ -4,6 +4,7 @@ I worked as a student developer intern at Google Summer of Code with [The Mifos 
 - I speak Tamil, English, and tech 
 - I attend Amrita School of Engineering
 - Ask me about 
+  	- Fintech 💸
 	- Flutter <img src="https://img.icons8.com/color/48/000000/flutter.png" width=3%>
 	- Android development <img src="https://img.icons8.com/fluent/48/000000/android-os.png" width=3%>
 	- *nix :penguin:
