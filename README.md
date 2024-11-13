@@ -1,7 +1,7 @@
 ![Hi 👋, I'm Ashwin](https://user-images.githubusercontent.com/20596763/141672268-7e6c9485-72e0-4ae4-bb86-1d725d959cc2.png)
 
 I worked as a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). I maintain [Raag](https://github.com/raag-music/raag) - an open source music player for android. I was also a technical product manager at [Spoon](https://spoon.money), and now I'm the one man army for mobile apps and front-end at [ClickPe](https://clickpe.ai/). You can find me on [LinkedIn][2] and [Twitter][1]
-- I speak Tamil, English, and tech 
+- I speak Tamil, English, Hindi, and Tech!
 - I attend Amrita School of Engineering
 - Ask me about 
   	- Fintech 💸
