@@ -2,9 +2,10 @@
 
 I worked as a student developer intern at Google Summer of Code with [The Mifos Initiative](https://www.github.com/openMF). I was also a technical product manager at [Spoon](https://spoon.money), and the one man army for mobile apps and front-end at [ClickPe](https://clickpe.ai/). I'm now working on something new at [AtlasProds](https://atlasprods.com)! You can find me on [LinkedIn][2] and [Twitter][1]
 - I speak Tamil, English, Hindi, and Tech!
-- I attend Amrita School of Engineering
+- I attended Amrita School of Engineering (2023 grad)
 - Ask me about 
-  	- Fintech 💸
+  	- SaaS
+	- Fintech 💸
 	- Flutter <img src="https://img.icons8.com/color/48/000000/flutter.png" width=3%>
 	- Android development <img src="https://img.icons8.com/fluent/48/000000/android-os.png" width=3%>
 	- *nix :penguin:
